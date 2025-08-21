@@ -1,0 +1,480 @@
+[
+  {
+    "title": "Sendio",
+    "description": "A white-label mobile application similar to a CRM, where all content is dynamically managed from the backend. It allows full customization of app content without updating the app, enabling seamless integration and deployment for multiple clients.",
+    "client": "NDA",
+    "duration": "Ongoing",
+    "url": "N/A",
+    "responsibilities": [
+      "Developed a dynamic, backend-driven mobile application using React Native.",
+      "Implemented modular components to reflect backend-controlled UI and data.",
+      "Integrated secure API communication for content fetching and user data handling.",
+      "Worked closely with the backend team to define flexible data structures.",
+      "Ensured scalability and reusability of the app across different clients"
+    ],
+    "rating": 2,
+    "technologies": [
+      "React Native"
+    ]
+  },
+  {
+    "title": "Mindshine",
+    "description": "Mindshine is a mental wellness mobile and web application designed to help users build positive habits, improve focus, and reduce stress through guided exercises, meditations, and coaching plans.",
+    "client": "Greator",
+    "duration": "Ongoing",
+    "url": "https://www.mindshine.app/",
+    "responsibilities": [
+      "Developed and maintained key features on both web (ReactJS) and mobile (React Native) platforms.",
+      "Built and optimized RESTful APIs using Node.js and Express.js for various user-centric functionalities.",
+      "Integrated Firebase for real-time notifications, analytics, and authentication."
+    ],
+    "rating": 1,
+    "technologies": [
+      "Reactjs",
+      "React Native",
+      "Nodejs",
+      "Express js",
+      "Mongodb",
+      "Firebase"
+    ]
+  },
+  {
+    "title": "Workvibe",
+    "description": "Workvibe is a project management web application designed to streamline task tracking, team collaboration, and workflow optimization",
+    "client": "NDA",
+    "duration": "Ongoing",
+    "url": "N/A",
+    "responsibilities": [
+      "Developed and maintained scalable Laravel backend components.",
+      "Implemented RESTful APIs for seamless integration with front-end components.",
+      "Participated in code reviews and agile sprint planning sessions."
+    ],
+    "rating": 1,
+    "technologies": [
+      "Laravel"
+    ]
+  },
+  {
+    "title": "Swasth Health App",
+    "description": " A comprehensive health and wellness mobile application designed to help users track and improve their overall well-being. The app monitors key health metrics including steps, calories burned, sleep patterns, heart rate, and activity levels. It features a gamified reward system where users earn coins for achieving health goals and maintaining streaks. The app includes personalized health reports, goal-setting tools, and real-time insights. Background synchronization ensures data remains current even when the app isn't active.",
+    "client": "NDA",
+    "duration": "Ongoing",
+    "url": "N/A",
+    "responsibilities": [
+      "Implemented secure user authentication with token management and session handling",
+      "Integrated Sahha SDK and health APIs to power core tracking features",
+      "Built a background sync service to update health metrics periodically",
+      "Developed a reward engine that calculates and awards coins based on activity",
+      "Designed interactive health reports with custom data visualizations",
+      "Implemented customizable goal-setting functionality with real-time progress tracking",
+      "Built a responsive UI using custom React Native components for optimal UX",
+      "Managed app-wide state using Redux and Redux-Saga",
+      "Handled error boundaries, session timeouts, and edge case scenarios",
+      "Optimized performance for smooth navigation and minimal load times",
+      "Collaborated with backend teams to integrate RESTful API services",
+      "Participated in code reviews and contributed to clean, maintainable code practices"
+    ],
+    "rating": 5,
+    "technologies": [
+      "React Native",
+      "Redux",
+      "JavaScript",
+      "TypeScript",
+      "Sahha Health SDK",
+      "React Navigation",
+      "Axios",
+      "Background Fetch API",
+      "Mobile Health Tracking",
+      "RESTful APIs",
+      "Redux-Saga",
+      "React Native Gesture Handler",
+      "Custom UI Components"
+    ]
+  },
+  {
+    "title": "Pushpendra.co",
+    "description": "Pushpendra.co is a personal/professional website built to showcase the client\u2019s profile, services, and blog content. The website focuses on performance, responsive design, and SEO optimization to enhance visibility and user engagement.",
+    "client": "Pushpendra Singh Jadon",
+    "duration": "Ongoiing",
+    "url": "https://pushpendra.co/",
+    "responsibilities": [
+      "Developed and maintained the website using custom WordPress themes and plugins.",
+      "Ensured responsive design for all major devices and browsers.",
+      "Managed updates, backups, and overall site security.",
+      "Integrated payment gateway and Zoho CRM"
+    ],
+    "rating": 2,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Esthetics",
+    "description": "Esthetics India is a company specializing in premium wood and window products. The website was developed as a business portfolio to showcase their products, craftsmanship, and project work professionally.",
+    "client": "Pranjal Badjatia",
+    "duration": "2 Months",
+    "url": "https://www.estheticsindia.com/",
+    "responsibilities": [
+      "Developed a custom WordPress website to highlight the client\u2019s wood and window product portfolio.",
+      "Designed a clean, elegant layout aligning with the brand's premium aesthetic.",
+      "Ensured the site is fully responsive and optimized for mobile, tablet, and desktop devices.",
+      "Integrated contact forms and inquiry features for potential clients and partners.",
+      "Optimized website performance and implemented basic SEO best practices.",
+      "Provided post-launch support and guidance for content management."
+    ],
+    "rating": 4,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "HRMS",
+    "description": "The Human Resource Management System (HRMS) is an internal web and mobile-based platform developed  to manage and automate HR-related processes.",
+    "client": "Averybit",
+    "duration": "1 Year",
+    "url": "www.averybit.in",
+    "responsibilities": [
+      "Developed responsive and user-friendly interfaces for HR modules using ReactJS and React Native.",
+      "Designed and implemented secure RESTful APIs in Node.js and Express.js to handle HR workflows and data management.",
+      "Integrated Firebase services for authentication, role-based access, and real-time notifications."
+    ],
+    "rating": 4,
+    "technologies": [
+      "Reactjs",
+      "React Native",
+      "Nodejs",
+      "Express js",
+      "Mongodb",
+      "Firebase"
+    ]
+  },
+  {
+    "title": "Bharti ENT Hospital",
+    "description": "Developed a professional and responsive WordPress website for Bharti ENT Hospital to enhance its online presence and provide clear information about ENT services, doctors, and appointments.",
+    "client": "Dr. Bhavin Parikh",
+    "duration": "2 Months",
+    "url": "https://bhartientcare.com/",
+    "responsibilities": [
+      "Collaborated with the client to understand website structure, content flow, and design preferences.",
+      " Designed and implemented a custom WordPress theme tailored to the hospital's branding.",
+      " Integrated appointment booking and contact forms for seamless patient communication.",
+      " Ensured website responsiveness and cross-browser compatibility.",
+      " Optimized site speed, performance, and SEO best practices.",
+      " Provided training and documentation for client-side content management."
+    ],
+    "rating": 3,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Exteriosys",
+    "description": "Exteriosys specializes in home automation, home theatre systems, entrance automation, wooden windows, stainless steel products, and natural stones. The website was designed to showcase their wide range of products and solutions with an elegant, user-friendly interface.",
+    "client": "Exteriosys",
+    "duration": "3 Months",
+    "url": "https://exteriosys.in/",
+    "responsibilities": [
+      "Developed and customized the WordPress theme to align with the client's branding and product categories.",
+      "Implemented responsive layouts for seamless performance across devices.",
+      "Integrated product galleries, inquiry forms, and contact features to enhance user engagement.",
+      "Optimized site speed and SEO structure to improve visibility and user experience.",
+      "Coordinated with the client to ensure content accuracy and timely updates.",
+      "Conducted testing and debugging to ensure cross-browser compatibility and overall performance."
+    ],
+    "rating": 3,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Riddhi Siddhi Consultancy Pvt. Ltd.",
+    "description": "Developed a professional website for Riddhi Siddhi Consultancy Pvt. Ltd., a real estate company specializing in residential projects. The website highlights their services, showcases ongoing and completed residential developments, and enables users to connect with the company easily.",
+    "client": "Aniruddh Mittal",
+    "duration": "2 Months",
+    "url": "https://rscpl.in/",
+    "responsibilities": [
+      "Designed and developed a custom WordPress website tailored for the real estate industry.",
+      "Created property listing sections to display residential projects with images, details, and inquiry options.",
+      "Integrated responsive design to ensure seamless experience across devices.",
+      "Customized themes and layout to align with the company\u2019s branding.",
+      "Implemented contact forms and lead capture mechanisms.",
+      "Optimized site performance and basic SEO for better visibility.",
+      "Delivered post-launch support and training to the client for content management.",
+      "Integrates Zoho CRM."
+    ],
+    "rating": 4,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Regency Electricals",
+    "description": "Regency Electricals Pvt. Ltd. specializes in trading electrical products like circuit breakers, cables, relays, and switches. Partnering with top brands such as SIEMENS and C&S Electric, they serve clients across the construction, industrial, OEM, and government sectors throughout India",
+    "client": "Regency Electricals Pvt. Ltd.",
+    "duration": "1  Months",
+    "url": "https://regencyelectricals.com/",
+    "responsibilities": [
+      "Designed and developed a responsive WordPress website to showcase the company's product portfolio and brand partnerships.",
+      "Customized WordPress themes and templates to meet client branding and functional requirements.",
+      "Integrated contact forms and inquiry sections for streamlined communication with potential clients.",
+      "Implemented performance optimization techniques, including image compression, lazy loading, and caching for faster loading times.",
+      "Ensured cross-browser compatibility and mobile responsiveness across all devices.",
+      "Configured security plugins and settings to enhance site protection.",
+      "Conducted training sessions with the client on content management via the WordPress dashboard."
+    ],
+    "rating": 4,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Singapore Athletic",
+    "description": "The Singapore Athletic project was developed for managing athlete registrations, event participation, and performance tracking for athletic organizations in Singapore. The platform facilitates real-time data management, user access control, and seamless interaction between administrators and athletes through a responsive UI and a robust backend.",
+    "client": "KD",
+    "duration": "4 Months",
+    "url": "https://web-stag.asiancline.com/",
+    "responsibilities": [
+      "Developed RESTful APIs using ASP.NET Core Web API to manage user authentication, event data, and athlete information.",
+      "Designed and implemented front-end components using React, ensuring a dynamic and responsive user experience.",
+      "Integrated SQL Server for efficient data storage, retrieval, and complex queries.",
+      "Participated in sprint planning and requirement analysis to ensure timely delivery of modules.",
+      "Implemented secure login mechanisms and role-based access control."
+    ],
+    "rating": 5,
+    "technologies": [
+      "Reactjs"
+    ]
+  },
+  {
+    "title": "LMS (Learning Management System)",
+    "description": "The Learning Management System (LMS) is a comprehensive platform developed for managing courses, users, and training plans. It enables admins to create both public and private courses. Private courses require user approval before access, while public courses are visible to all users by default. Each course is structured into sections containing multiple lessons. Admins can also group multiple courses into training plans and assign them to users for structured learning. Additionally, the platform tracks user progress and provides administrative control over course enrollment and user management.",
+    "client": "AveryBit",
+    "duration": "4 Months",
+    "url": "N/A",
+    "responsibilities": [
+      "Developed APIs using ASP.NET Core Web API for managing course creation, user enrollment, approval workflows, and training plan assignments.",
+      "Built dynamic front-end components using React to manage user dashboards, course navigation, and learning progress.",
+      "Designed database schemas and implemented stored procedures in SQL Server for performance-optimized data handling.",
+      "Enabled role-based access control to differentiate functionalities for Admins and Users.",
+      "Integrated course publishing logic with approval flows for private courses.",
+      "Implemented training plan logic by combining courses and tracking assigned users' progress."
+    ],
+    "rating": 2,
+    "technologies": [
+      "ReactJS"
+    ]
+  },
+  {
+    "title": "Samprati Properties",
+    "description": "Samprati Properties operates in the real estate sector, specializing in both commercial and residential properties. The goal of the project was to enhance the website\u2019s visual appeal and user experience to better reflect the brand's professionalism and offerings.",
+    "client": "Divyesh Kothari",
+    "duration": "1  Months",
+    "url": "sampratiproperties.com",
+    "responsibilities": [
+      "Led the complete redesign of the website using WordPress",
+      "Ensured responsive design across all devices",
+      "Optimized website speed and performance",
+      "Implemented clean, modern aesthetics in line with client expectations"
+    ],
+    "rating": 2,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Coolzone Air Cooler Pvt. Ltd",
+    "description": "Website for a leading air cooler dealer.",
+    "client": "Coolzone Air Cooler Pvt. Ltd",
+    "duration": "2 Week",
+    "url": "https://coolzoneaircooler.com/",
+    "responsibilities": [
+      "Identified and removed malware affecting the website's performance and integrity.",
+      "Implemented robust security measures by integrating and configuring a reliable WordPress security plugin.",
+      "Performed a complete security audit to ensure the site was clean and protected from future threats."
+    ],
+    "rating": 1,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Definite Success Classes",
+    "description": "Definite Success Classes (DSC) is an educational institution founded by Central India\u2019s top NEET mentors, aimed at providing expert guidance for NEET and IIT-JEE aspirants. The organization emphasizes not just academic excellence, but also the personal growth of each student through personalized mentorship, detailed academic tracking, and a values-driven approach. The platform serves students and parents alike, offering resources to help build a strong foundation for success in top-tier medical and engineering institutions across India.",
+    "client": "Definite Success Classes",
+    "duration": "2 Months",
+    "url": "https://definitesuccess.in/",
+    "responsibilities": [
+      "Designed and developed a fully responsive and SEO-optimized WordPress website.",
+      "Customized themes and implemented unique layouts to match the brand\u2019s identity and academic focus.",
+      "Integrated lead capture forms and inquiry handling features.",
+      "Ensured smooth user navigation and performance optimization across all devices.",
+      "Set up backend workflows for easy content management by non-technical staff.",
+      "Implemented security best practices and regular backup solutions.",
+      "Coordinated with the client to revise content and make iterative improvements based on feedback."
+    ],
+    "rating": 2,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Sera Creations",
+    "description": " An eCommerce website tailored for handcrafted products and creative designs.",
+    "client": "Sera Creations",
+    "duration": "Ongoing",
+    "url": "https://seracreations.in/",
+    "responsibilities": [
+      "Redesigned the entire website for a modern, user-friendly interface.",
+      "Integrated a secure and reliable payment gateway to enhance customer checkout experience.",
+      "Ensured responsive design and optimized performance across devices."
+    ],
+    "rating": 1,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Sandhya Group",
+    "description": "Sandhya Group is a real estate company operating in the commercial, residential, and industrial sectors. The website was developed to showcase their properties, services, and company profile, providing a seamless user experience and easy content management.",
+    "client": "Sandhya Group",
+    "duration": "2 Months",
+    "url": "https://sandhyaproperties.in/",
+    "responsibilities": [
+      "Designed and developed a responsive WordPress website tailored to the real estate sector.",
+      "Integrated property listing features using custom post types and taxonomies.",
+      "Implemented contact forms and inquiry handling system.",
+      "Optimized website performance and SEO using relevant plugins and best practices.",
+      "Ensured cross-browser compatibility and mobile responsiveness.",
+      "Provided client training and documentation for content management."
+    ],
+    "rating": 3,
+    "technologies": [
+      "WordPress"
+    ]
+  },
+  {
+    "title": "Resume Builder",
+    "description": "An AI-powered tool to generate resumes by matching user projects with job descriptions",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "Firebase",
+      "LangChain",
+      "n8n",
+      "OpenAI API"
+    ]
+  },
+  {
+    "title": "AI-Chatbot",
+    "description": "An interactive chatbot for answering user queries using LLMs",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "Firebase",
+      "LangChain",
+      "n8n",
+      "OpenAI API",
+      "Docker"
+    ]
+  },
+  {
+    "title": "Attendance Automation N8n",
+    "description": "Automates daily attendance report generation using n8n and LLM",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "LangChain",
+      "n8n",
+      "OpenAI API"
+    ]
+  },
+  {
+    "title": "Calender-n8n",
+    "description": "Converts natural language tasks to Google Calendar events",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "LangChain",
+      "n8n",
+      "OpenAI API",
+      "AI Workflow Automation"
+    ]
+  },
+  {
+    "title": "Calling-Agent-n8n",
+    "description": "An agent that can make AI-driven phone calls",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "LangChain",
+      "n8n",
+      "OpenAI API",
+      "AI Workflow Automation",
+      "Hugging Face Transformers"
+    ]
+  },
+  {
+    "title": "Upwork-Scrapper",
+    "description": "A smart scraper that collects and classifies job posts from Upwork",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "LangChain",
+      "n8n",
+      "OpenAI API",
+      "AI Workflow Automation",
+      "Firebase",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "title": "Wellbeing-AI-Therapist",
+    "description": "An AI therapist bot for mental well-being support",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "LangChain",
+      "n8n",
+      "OpenAI API",
+      "AI Workflow Automation",
+      "Firebase"
+    ]
+  },
+  {
+    "title": "ClickUp Creative Workflow Automation Project",
+    "description": "A comprehensive workflow automation solution for a creative agency managing dual production pipelines in ClickUp. The project addresses the challenge of coordinating creative content production between internal teams (Brick-Owned) and client teams (Client-Owned) while maintaining clear visibility, approval processes, and role-based access controls.",
+    "client": "N/A",
+    "duration": "N/A",
+    "url": "",
+    "responsibilities": [],
+    "rating": 4,
+    "technologies": [
+      "LangChain",
+      "n8n",
+      "OpenAI API",
+      "AI Workflow Automation",
+      "Firebase"
+    ]
+  }
+]
