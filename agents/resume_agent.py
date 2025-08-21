@@ -118,14 +118,15 @@ def resume_agent(name, experience_level, job_description, projects_list, require
         "HTTP-Referer": "http://localhost:8502",
         "X-Title": "AI Resume Builder"
     }
-
     prompt = f"""
 You are a resume generation expert. Based on the candidate's details, required skills, job description, and selected projects, return a complete and clean JSON object. Do not include any explanation or markdown — only the raw JSON.
 
-Make sure to:
-- Categorize technologies under frontend, backend, databases, cloud, and tools
-- If a category is missing in the input, intelligently infer based on context
-- Fill all categories; no category should be empty if it's implied from required skills or job description
+Formatting Rules:
+- Return valid JSON only.
+- Store responsibilities as arrays of strings (not multiline text).
+- Categorize technologies under frontend, backend, databases, cloud, and tools.
+- If a category is missing in the input, intelligently infer from context.
+- No category should be left empty if it can be derived from skills or job description.
 
 Candidate Information:
 - Name: {name}
@@ -140,16 +141,20 @@ Expected Output Format:
 {{
   "name": "{name}",
   "position_title": "Determine from job description, avoid 'Senior'/'Junior'",
-  "professional_summary": "Write 7-8 line summary of candidate's expertise based on the JD and skills.",
+  "professional_summary": "Write 7-8 line summary of candidate's expertise.",
   "professional_experience": {{
     "years": "{experience_level}",
-    "description": "Generate 20-25 detailed bullet points with action verbs about candidate's responsibilities and technical knowledge."
+    "description": [
+      "Bullet point 1",
+      "Bullet point 2",
+      "... up to 20-25 points"
+    ]
   }},
   "technical_skills": {{
     "frontend": ["React", "HTML", "CSS"],
-    "backend": ["Python", "Django", "Node.js"],
-    "databases": ["MongoDB", "PostgreSQL"],
-    "cloud": ["AWS", "Azure"],
+    "backend": ["Node.js", "Express.js"],
+    "databases": ["MongoDB"],
+    "cloud": ["Firebase"],
     "tools": ["Git", "Docker", "Jira"]
   }},
   "employment_history": [
@@ -158,10 +163,12 @@ Expected Output Format:
       "location": "Indore",
       "positions": [
         {{
-          "title": "Detect appropriate role title",
+          "title": "Web Developer",
           "duration": "Jan 2021 - Present",
           "responsibilities": [
-            "List key contributions based on required skills and job role"
+            "Developed responsive HR modules using ReactJS and React Native",
+            "Built secure RESTful APIs in Node.js and Express.js",
+            "Integrated Firebase for authentication and notifications"
           ]
         }}
       ]

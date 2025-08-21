@@ -242,7 +242,7 @@ st.markdown("""
 
 
 st.title("🧠 ResumeGenie by AveryBit")
-st.subheader("Powered by OpenRouter GPT-4o-mini - Craft the Perfect Resume & Cover Letter")
+st.subheader("Craft the Perfect Resume & Cover Letter")
 
 # Load projects
 project_file = "data/projects.json"
